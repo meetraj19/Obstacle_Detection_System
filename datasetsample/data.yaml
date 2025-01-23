@@ -1,0 +1,7 @@
+train: path to train directory containing image and label directory
+val:  path to valid directory containing image and label directory
+test: path to test directory containing image and label directory
+
+nc: 29
+names: ['Signal-Green', 'Signal-Yellow', 'Signal-red', 'Station-Lights-Off', 'Station-lights-ON', 'bicycle', 'bridge', 'building', 'car', 'cementblock', 'dwarf signal', 'electric pole', 'fencing', 'fire', 'house', 'instruction sign', 'person', 'pillar', 'plasticbag', 'platform', 'railwaytrack', 'rusted-track', 'smoke', 'stairs', 'surviellance', 'traffic signal', 'train', 'tree', 'wall']
+
